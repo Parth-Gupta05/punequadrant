@@ -13,4 +13,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-deployed link:  [](https://punequadrant.vercel.app/)
+[deployed link](https://punequadrant.vercel.app/)
